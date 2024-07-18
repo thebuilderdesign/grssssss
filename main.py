@@ -78,7 +78,7 @@ async def connect_to_wss(socks5_proxy, user_id):
                 continue  # Continue to try to reconnect or handle other errors
 
 async def main():
-    _user_id = '4ba3da93-f29f-4aff-aac5-71d43c612240'   # Replace Your User ID HERE 
+    _user_id = ''   # Replace Your User ID HERE 
     proxy_file = 'proxy.txt' # your Path to Proxy3.txt file 
     # formate => socks5://username:pass@ip:port
     with open(proxy_file, 'r') as file:
