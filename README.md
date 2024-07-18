@@ -17,22 +17,6 @@ Features
 - CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
 - Those who can run the script On their own and are devs Please run via own ! Dont Dm this is just for newbies and non technical persons Thanks :) !!
 
-![image](https://github.com/user-attachments/assets/c3cded25-48ff-4a16-a464-7419f1a1471d)
-
-# 不要错过草节点最后的EPOCH 7！！！
-# 获取草多账户100%正常运行的免费Python Bot 1.25x节点
-# 由于在Discord和Telegram上收到很多私信和消息，我启动了新的社区节点服务器！无需运行节点的麻烦！
-
-# 功能
-- 所以，我将基于你的需求运行草节点，因为你们中很多人表示无法运行服务器、VPS或代理，无法运行脚本！！
-- 对你们来说成本效益不高，因为你们购买代理需要4美元，而我批量购买只需2美元！！
-- 你现在不必支付高昂的VPS费用
-- 解决方案：只需在Discord上给我发送私信并发送你的用户ID，我会将草点数直接添加到你的草账户！！
-- 每百万点数的价格仅为8美元
-- 简单便宜的解决方案，无需运行节点的麻烦！比鲸鱼市场价格更好，访问更便捷！！
-- 联系方式：Discord上的0xphatom https://discord.com/users/979641024215416842(https://discord.com/users/979641024215416842)
-- 那些能够自己运行脚本并且是开发者的，请自行运行！请勿私信，这仅适用于新手和非技术人员，谢谢 :) !!
-
 
 
 This Python Bot script manages WebSocket connections through specified SOCKS5 proxies, Unlimited Proxies and multiple get grass Accounts handling authentication and maintaining persistent connections with a server. The script also includes functionality to periodically send ping messages to keep the connection alive forever. If you can run your pc 24/7 then you dont need a Vps or proxy server lol
@@ -70,11 +54,11 @@ This Python Bot script manages WebSocket connections through specified SOCKS5 pr
 
 ## Requirements
 
-- Invitation link Get Grass Accounts ( https://app.getgrass.io/register/?referralCode=ZJBYJraDQBJD4ZX )
+- Invitation link Get Grass Accounts ( https://app.getgrass.io/register/?referralCode=gIcYrZtAm1xddKQ )
 - Python (install Python By - https://www.python.org/downloads/ [windows/mac]) or Ubuntu Server [`sudo apt install python3`]
 - VPS Server ! You can get Via AWS free Tier or Google Free tier or Gitpod or any online for just ~ 2-5$ per month
 - Proxy Server - Buy Only Residential Proxies to Earn $GRASS else you will earn 0% on data Centers / Free Cheap proxies (Best proxy providers are)
-- Proxies.fo -  https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
+- Proxies.fo -  https://app.proxies.fo/signup?referral=f10a86c3-7928-f5ab-ea98-e4bb7577c3d8 [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
 - Get User ID from Grass Dashboard
 
 ## SETPS TO RUN THE CODE -
